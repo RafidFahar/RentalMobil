@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rental Mobil</string>
+    <string name="sewa_mobil">Sewa Mobil</string>
+    <string name="nama_penyewa">Nama Penyewa <font color='red'>(*)</font></string>
+    <string name="alamat">Alamat <font color='red'>(*)</font></string>
+    <string name="no_telp">No. Telp/HP <font color='red'>(*)</font></string>
+    <string name="merk_mobil">Merk Mobil <font color='red'>(*)</font></string>
+    <string name="lama_sewa">Lama Sewa <font color='red'>(*)</font></string>
+    <string name="judul">Rental Mobil Santuy</string>
+    <string name="info_mobil">Informasi Mobil</string>
+
+    <string name="identitas_penyewa">Identitas Penyewa</string>
+    <string name="hint_nama">Masukkan Nama (Max 15 karakter)</string>
+    <string name="hint_alamat">Masukkan Alamat Anda</string>
+    <string name="hint_no">Masukkan No. Telp/HP</string>
+
+</resources>
